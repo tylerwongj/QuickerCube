@@ -76,3 +76,6 @@ Thumbs.db
 *.exe
 *.dll
 *.pdb
+
+# Unity MCP local installation
+unity-mcp/
